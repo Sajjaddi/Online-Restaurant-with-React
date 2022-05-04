@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+One of my first projects with React 
+i created this project with React and hooks:(state, context, useEffect) and scss also font-awesome
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
