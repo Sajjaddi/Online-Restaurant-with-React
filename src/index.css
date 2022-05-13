@@ -13,3 +13,11 @@ body {
   background-color: #3f3f3f;
 }
 
+#loading {
+  position: absolute;
+  top:60%;
+  right: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  /* display: none; */
+}
